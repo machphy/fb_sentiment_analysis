@@ -1,4 +1,4 @@
-# Facebook Sentiment Analysis
+![image](https://github.com/machphy/fb_sentiment_analysis/assets/115711628/7673e492-a106-44eb-b158-27584eb53140)# Facebook Sentiment Analysis
 
 This project performs sentiment analysis on Facebook posts using Python. The analysis pipeline involves loading data from a CSV file, preprocessing the data, performing sentiment analysis, and visualizing the results.
 
@@ -59,5 +59,8 @@ Defines functions for visualizing the results.
    Sentiment analysis sample:
 
 <img src="https://github.com/machphy/fb_sentiment_analysis/blob/main/IMG/Screenshot%202024-07-09%20095042.png?raw=true" width="400" height="300">
+<img src="https://raw.githubusercontent.com/machphy/fb_sentiment_analysis/main/IMG/Screenshot%202024-07-09%20005759.png" width="400" height="300">
+<img src="https://github.com/machphy/fb_sentiment_analysis/blob/main/IMG/Screenshot%202024-07-09%20012945.png?raw=true" width="400" height="300">
+
 
 
